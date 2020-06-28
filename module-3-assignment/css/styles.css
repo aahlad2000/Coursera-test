@@ -103,7 +103,7 @@ p{
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  border: 2px solid #3F0C1F;
+  border: 2px solid #222;
   overflow: hidden;
 }
 #menu-tile:hover, #specials-tile:hover, #map-tile:hover {
@@ -206,7 +206,7 @@ p{
     padding: 10px;
     border: 2px solid #fff;
     background-color: #f6b319;
-    color: #951c49;
+    color: #222;
   }
   #xs-deliver {
     margin-top: 5px;
@@ -286,4 +286,3 @@ p{
     margin: 0 auto 15px;
   }
 }
-
